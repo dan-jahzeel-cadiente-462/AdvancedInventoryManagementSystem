@@ -1,0 +1,9 @@
+com.inventory.ui.supplier.SupplierManagementPanel$1
+com.inventory.ui.supplier.SupplierManagementPanel$4
+com.inventory.ui.supplier.SupplierManagementPanel$5
+com.inventory.ui.supplier.SupplierManagementPanel$2
+com.inventory.ui.supplier.SupplierManagementPanel$3
+com.inventory.ui.supplier.SupplierManagementPanel$6
+com.inventory.ui.supplier.SupplierManagementPanel$7
+com.inventory.ui.supplier.SupplierManagementPanel
+com.inventory.ui.supplier.SupplierManagementPanel$RoundedBorder
