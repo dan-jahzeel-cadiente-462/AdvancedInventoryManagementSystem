@@ -1,9 +1,0 @@
-com.inventory.ui.reports.ReportsPanel$3
-com.inventory.ui.reports.ReportsPanel$4
-com.inventory.ui.reports.ReportsPanel$1
-com.inventory.ui.reports.ReportsPanel$2
-com.inventory.ui.reports.ReportsPanel
-com.inventory.ui.reports.ReportsPanel$7
-com.inventory.ui.reports.ReportsPanel$8
-com.inventory.ui.reports.ReportsPanel$5
-com.inventory.ui.reports.ReportsPanel$6
