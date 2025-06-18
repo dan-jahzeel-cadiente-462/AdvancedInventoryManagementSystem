@@ -1,8 +1,9 @@
-## Info
-
-Dan Jahzeel V. Cadiente
-Section C - BS Information Technology
-Negros Oriental State University - Main Campus I Dumaguete City
-Schedule: 5:00 - 6:00 PM
-Project: Advanced Inventory Management System - MIDTERM PROJECT# AdvancedInventoryManagementSystem
-# AdvancedInventoryManagementSystem
+![Screenshot 2025-06-18 151057](https://github.com/user-attachments/assets/002cc7f6-d733-4eb1-aa77-c9a153f4c403)
+![Screenshot 2025-06-18 151043](https://github.com/user-attachments/assets/d60619e9-4848-464f-9380-ce48943c26d7)
+![Screenshot 2025-06-18 151001](https://github.com/user-attachments/assets/7365f56b-9094-4964-b6b9-f0f723aedacb)
+![Screenshot 2025-06-18 150942](https://github.com/user-attachments/assets/65f97b62-62c2-46f0-97ca-b04b80de229a)
+![Screenshot 2025-06-18 150830](https://github.com/user-attachments/assets/207aac0c-b0e4-492c-8106-78c0d4b27b32)
+![Screenshot 2025-06-18 150811](https://github.com/user-attachments/assets/536aa1c4-0892-44bf-ad28-235f1f0332fa)
+![Screenshot 2025-06-18 150746](https://github.com/user-attachments/assets/456d77f2-dc61-483d-8505-5d107f5575c2)
+![Screenshot 2025-06-18 150717](https://github.com/user-attachments/assets/2395dd86-0c1e-4172-aebf-91b0eaad95dc)
+![Screenshot 2025-06-18 145952](https://github.com/user-attachments/assets/ffc34763-1cc1-411a-95f0-d3b8bd2000dd)
